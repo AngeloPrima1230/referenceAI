@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+frontend/dist/
+.env.local
+.env.*.local
+
+# Misc
+.DS_Store
+*.stl
+*.obj
+*.glb
+tmp/

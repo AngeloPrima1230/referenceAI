@@ -1,0 +1,142 @@
+Full Book Structure: Web Development (Beginner → Advanced)
+
+PART 1: Foundations of the Web Chapter 1: How the Web Works Sections:
+1.1 What is the Internet? 1.2 Client vs Server 1.3 HTTP / HTTPS basics
+1.4 Browsers and rendering 1.5 DNS and hosting basics
+
+Chapter 2: Development Environment Setup Sections: 2.1 Installing VS
+Code 2.2 Useful extensions 2.3 Browser DevTools 2.4 Node.js & npm setup
+2.5 Folder structure basics
+
+PART 2: HTML (Structure) Chapter 3: HTML Basics Sections: 3.1 What is
+HTML? 3.2 Document structure 3.3 Tags, elements, attributes
+
+Chapter 4: Text & Content Elements Sections: 4.1 Headings and paragraphs
+4.2 Lists (ul, ol) 4.3 Links and navigation
+
+Chapter 5: Media & Embedding Sections: 5.1 Images 5.2 Audio & video 5.3
+Iframes
+
+Chapter 6: Forms & Input Sections: 6.1 Form structure 6.2 Input types
+6.3 Validation basics
+
+Chapter 7: Semantic HTML & Accessibility Sections: 7.1 Semantic tags 7.2
+Accessibility basics (ARIA, alt) 7.3 SEO fundamentals
+
+PART 3: CSS (Styling) Chapter 8: CSS Fundamentals Sections: 8.1
+Selectors 8.2 Colors and units 8.3 Box model
+
+Chapter 9: Layout Basics Sections: 9.1 Display property 9.2 Positioning
+9.3 Float (brief)
+
+Chapter 10: Flexbox Sections: 10.1 Flex container & items 10.2 Alignment
+& spacing 10.3 Real examples
+
+Chapter 11: CSS Grid Sections: 11.1 Grid system 11.2 Rows & columns 11.3
+Layout patterns
+
+Chapter 12: Responsive Design Sections: 12.1 Media queries 12.2
+Mobile-first approach 12.3 Breakpoints
+
+Chapter 13: Advanced CSS Sections: 13.1 Animations & transitions 13.2
+CSS variables 13.3 Best practices
+
+PART 4: JavaScript (Core Programming) Chapter 14: JavaScript Basics
+Sections: 14.1 Variables 14.2 Data types 14.3 Operators
+
+Chapter 15: Control Flow Sections: 15.1 if/else 15.2 switch 15.3 loops
+
+Chapter 16: Functions Sections: 16.1 Function declarations 16.2 Arrow
+functions 16.3 Scope
+
+Chapter 17: Arrays & Objects Sections: 17.1 Array methods 17.2 Object
+manipulation 17.3 JSON
+
+Chapter 18: DOM Manipulation Sections: 18.1 Selecting elements 18.2
+Events 18.3 Updating UI dynamically
+
+Chapter 19: Browser APIs Sections: 19.1 Fetch API 19.2 LocalStorage 19.3
+Timers
+
+PART 5: Modern JavaScript Chapter 20: ES6+ Features Sections: 20.1
+let/const 20.2 Destructuring 20.3 Spread/rest 20.4 Modules
+
+Chapter 21: Asynchronous JavaScript Sections: 21.1 Callbacks 21.2
+Promises 21.3 async/await
+
+PART 6: Frontend Development Chapter 22: Introduction to Frontend
+Frameworks Sections: 22.1 Why frameworks? 22.2 SPA concept
+
+Chapter 23: React Basics Sections: 23.1 Components 23.2 JSX 23.3 Props &
+state
+
+Chapter 24: React Advanced Sections: 24.1 Hooks 24.2 Lifecycle 24.3
+Forms handling
+
+Chapter 25: Routing & State Management Sections: 25.1 React Router 25.2
+Global state
+
+PART 7: Backend Development Chapter 26: Backend Fundamentals Sections:
+26.1 What is a server? 26.2 REST API concept
+
+Chapter 27: Node.js Basics Sections: 27.1 Node runtime 27.2 Modules 27.3
+File system
+
+Chapter 28: Express.js Sections: 28.1 Creating server 28.2 Routing 28.3
+Middleware
+
+Chapter 29: Authentication Sections: 29.1 Sessions 29.2 JWT 29.3
+Security basics
+
+PART 8: Databases Chapter 30: Database Basics Sections: 30.1 SQL vs
+NoSQL 30.2 Data modeling
+
+Chapter 31: MongoDB (NoSQL) Sections: 31.1 CRUD operations 31.2 Schema
+design
+
+Chapter 32: SQL (Optional) Sections: 32.1 Tables 32.2 Queries 32.3 Joins
+
+PART 9: Fullstack Integration Chapter 33: Connecting Frontend & Backend
+Sections: 33.1 API calls 33.2 Error handling 33.3 Environment variables
+
+Chapter 34: Building a Fullstack App Sections: 34.1 Project structure
+34.2 End-to-end example
+
+PART 10: Deployment & DevOps Chapter 35: Git & GitHub Sections: 35.1
+Version control basics 35.2 Branching
+
+Chapter 36: Deployment Sections: 36.1 Hosting frontend 36.2 Hosting
+backend
+
+Chapter 37: CI/CD Basics Sections: 37.1 Automation concepts
+
+PART 11: Security & Performance Chapter 38: Web Security Basics
+Sections: 38.1 XSS 38.2 CSRF 38.3 HTTPS
+
+Chapter 39: Performance Optimization Sections: 39.1 Lazy loading 39.2
+Code splitting 39.3 Caching
+
+PART 12: Testing & Debugging Chapter 40: Debugging Sections: 40.1
+DevTools deep dive 40.2 Logging strategies
+
+Chapter 41: Testing Sections: 41.1 Unit testing basics 41.2 Frontend
+testing intro
+
+PART 13: Projects Chapter 42: Beginner Project Sections: 42.1 Static
+website
+
+Chapter 43: Intermediate Project Sections: 43.1 API-based app
+
+Chapter 44: Advanced Project Sections: 44.1 Fullstack application
+
+PART 14: Career & Next Steps Chapter 45: Portfolio Building Sections:
+45.1 What to include 45.2 GitHub best practices
+
+Chapter 46: Interview Preparation Sections: 46.1 Common questions 46.2
+Coding challenges
+
+Chapter 47: Learning Path Forward Sections: 47.1 Advanced topics 47.2
+Specializations
+
+Appendix A.1 Command line basics A.2 VS Code shortcuts A.3 Cheat sheets
+A.4 Glossary

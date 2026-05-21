@@ -1,0 +1,12 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9
+torch==2.3.0
+torchvision==0.18.0
+transformers==4.42.4
+Pillow==10.4.0
+numpy==1.26.4
+rembg==2.0.57
+onnxruntime==1.18.1
+numpy-stl==3.1.0
+scipy==1.13.1
